@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeDownloaderPlugin", "ShapeDownloaderPlugin\ShapeDownloaderPlugin.csproj", "{B5732BBC-82E1-4A94-821F-7622FF663B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayerData", "..\..\GeoMixer\LayerManagerWeb\LayerData\LayerData.csproj", "{B9E1B449-A563-4C39-8330-521CC51DA71B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonKosmosnimkiUtil", "..\..\GeoMixer\CommonSolution\CommonKosmosnimkiUtil\CommonKosmosnimkiUtil.csproj", "{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		MapsKosmosnimkiDebug|Any CPU = MapsKosmosnimkiDebug|Any CPU
+		MapsKosmosnimkiDebug|x86 = MapsKosmosnimkiDebug|x86
+		MapsKosmosnimkiRelease|Any CPU = MapsKosmosnimkiRelease|Any CPU
+		MapsKosmosnimkiRelease|x86 = MapsKosmosnimkiRelease|x86
+		MyDebug|Any CPU = MyDebug|Any CPU
+		MyDebug|x86 = MyDebug|x86
+		MyDebug2|Any CPU = MyDebug2|Any CPU
+		MyDebug2|x86 = MyDebug2|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MapsKosmosnimkiDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MapsKosmosnimkiDebug|Any CPU.Build.0 = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MapsKosmosnimkiDebug|x86.ActiveCfg = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MapsKosmosnimkiRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MapsKosmosnimkiRelease|Any CPU.Build.0 = Release|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MapsKosmosnimkiRelease|x86.ActiveCfg = Release|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MyDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MyDebug|Any CPU.Build.0 = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MyDebug|x86.ActiveCfg = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MyDebug2|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MyDebug2|Any CPU.Build.0 = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.MyDebug2|x86.ActiveCfg = Debug|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5732BBC-82E1-4A94-821F-7622FF663B04}.Release|x86.ActiveCfg = Release|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MapsKosmosnimkiDebug|Any CPU.ActiveCfg = MapsKosmosnimkiDebug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MapsKosmosnimkiDebug|Any CPU.Build.0 = MapsKosmosnimkiDebug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MapsKosmosnimkiDebug|x86.ActiveCfg = MapsKosmosnimkiDebug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MapsKosmosnimkiRelease|Any CPU.ActiveCfg = MapsKosmosnimkiRelease|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MapsKosmosnimkiRelease|Any CPU.Build.0 = MapsKosmosnimkiRelease|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MapsKosmosnimkiRelease|x86.ActiveCfg = MapsKosmosnimkiRelease|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MyDebug|Any CPU.ActiveCfg = MyDebug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MyDebug|Any CPU.Build.0 = MyDebug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MyDebug|x86.ActiveCfg = MyDebug|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MyDebug2|Any CPU.ActiveCfg = MyDebug2|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MyDebug2|Any CPU.Build.0 = MyDebug2|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.MyDebug2|x86.ActiveCfg = MyDebug2|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E1B449-A563-4C39-8330-521CC51DA71B}.Release|x86.ActiveCfg = Release|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.Debug|x86.ActiveCfg = Debug|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.Debug|x86.Build.0 = Debug|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MapsKosmosnimkiDebug|Any CPU.ActiveCfg = MapsKosmosnimkiDebug|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MapsKosmosnimkiDebug|Any CPU.Build.0 = MapsKosmosnimkiDebug|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MapsKosmosnimkiDebug|x86.ActiveCfg = MapsKosmosnimkiDebug|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MapsKosmosnimkiDebug|x86.Build.0 = MapsKosmosnimkiDebug|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MapsKosmosnimkiRelease|Any CPU.ActiveCfg = MapsKosmosnimkiRelease|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MapsKosmosnimkiRelease|Any CPU.Build.0 = MapsKosmosnimkiRelease|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MapsKosmosnimkiRelease|x86.ActiveCfg = MapsKosmosnimkiRelease|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MapsKosmosnimkiRelease|x86.Build.0 = MapsKosmosnimkiRelease|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MyDebug|Any CPU.ActiveCfg = MyDebug|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MyDebug|Any CPU.Build.0 = MyDebug|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MyDebug|x86.ActiveCfg = MyDebug|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MyDebug|x86.Build.0 = MyDebug|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MyDebug2|Any CPU.ActiveCfg = MyDebug2|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MyDebug2|Any CPU.Build.0 = MyDebug2|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MyDebug2|x86.ActiveCfg = MyDebug2|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.MyDebug2|x86.Build.0 = MyDebug2|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.Release|x86.ActiveCfg = Release|x86
+		{9DC167A7-783B-47AF-8CFB-5EB8F0823D97}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
